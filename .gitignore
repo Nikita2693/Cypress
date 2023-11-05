@@ -1,0 +1,15 @@
+Thumbs.db
+.DS_Store
+tmp/
+*_old.*
+*_backup.*
+*.*_old
+*_old
+*_backup
+*.*_backup
+!.vscode
+/node_modules/
+/cypress/e2e/1-getting-started/
+/cypress/e2e/2-advanced-examples/
+/booksApp/
+.history/
